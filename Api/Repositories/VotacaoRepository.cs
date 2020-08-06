@@ -30,8 +30,6 @@ namespace votacao_backend.Api.Repositories
 
             votacao.IdVotacao = Guid.NewGuid();
 
-            _context.Votacoes.Where( x => x.IdGradeamento == votacao.IdGradeamento);
-
             _context.Votacoes.Add(votacao);
         }
 

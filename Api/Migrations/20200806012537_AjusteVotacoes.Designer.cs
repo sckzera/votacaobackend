@@ -2,6 +2,7 @@
 using System;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 using Npgsql.EntityFrameworkCore.PostgreSQL.Metadata;
 using votacao_backend.Api.DbContexts;
@@ -9,9 +10,10 @@ using votacao_backend.Api.DbContexts;
 namespace Api.Migrations
 {
     [DbContext(typeof(VotacaoContext))]
-    partial class VotacaoContextModelSnapshot : ModelSnapshot
+    [Migration("20200806012537_AjusteVotacoes")]
+    partial class AjusteVotacoes
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\cobric backend\\Votos\\Api\\Api.csproj": {}
+    "C:\\cobric back git\\votacaobackend\\Api\\Api.csproj": {}
   },
   "projects": {
-    "C:\\cobric backend\\Votos\\Api\\Api.csproj": {
+    "C:\\cobric back git\\votacaobackend\\Api\\Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\cobric backend\\Votos\\Api\\Api.csproj",
+        "projectUniqueName": "C:\\cobric back git\\votacaobackend\\Api\\Api.csproj",
         "projectName": "Api",
-        "projectPath": "C:\\cobric backend\\Votos\\Api\\Api.csproj",
+        "projectPath": "C:\\cobric back git\\votacaobackend\\Api\\Api.csproj",
         "packagesPath": "C:\\Users\\pietro.oliveira\\.nuget\\packages\\",
-        "outputPath": "C:\\cobric backend\\Votos\\Api\\obj\\",
+        "outputPath": "C:\\cobric back git\\votacaobackend\\Api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\pietro.oliveira\\AppData\\Roaming\\NuGet\\NuGet.Config"

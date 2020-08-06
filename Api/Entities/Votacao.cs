@@ -13,8 +13,5 @@ namespace votacao_backend.Api.Entities
 
         [Required]
         public Guid IdUsuario { get; set; }
-
-        [Required]
-        public string TituloTrabalho { get; set; }
     }
 }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "nqcg+Bc7JIknh31n1JDh5eXiYLCmRv9/nLiy/Tfy9oBxeh5Y7vYUJ0T4mEWA7p1ZHy8OUI2iZK1abEUBnAi80g==",
+  "dgSpecHash": "oXXIqGhWVnhnEVWJXZIffZZUSIhDV5n9NyiGS6LX22Uj7Ti4+9Vgsg1Yk3jh7TDzeBP25oKdnrgxnI1FfdNU1w==",
   "success": true,
-  "projectFilePath": "C:\\cobric backend\\Votos\\Api\\Api.csproj",
+  "projectFilePath": "C:\\cobric back git\\votacaobackend\\Api\\Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\pietro.oliveira\\.nuget\\packages\\automapper\\9.0.0\\automapper.9.0.0.nupkg.sha512",
     "C:\\Users\\pietro.oliveira\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\7.0.0\\automapper.extensions.microsoft.dependencyinjection.7.0.0.nupkg.sha512",

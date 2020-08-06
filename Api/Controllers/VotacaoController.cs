@@ -66,13 +66,6 @@ namespace votacao_backend.Api.Controllers
                 
                 _repository.Cadastrar(votacaoEntity);
 
-                Votos votos = new Votos(){
-                    IdGradeamento = votacaoEntity.IdGradeamento
-                };
-
-                _repository.CadastrarVotos(votos);
-
-
                 if(_repository.Salvar())
                 {
                     return CreatedAtRoute(null, null);
